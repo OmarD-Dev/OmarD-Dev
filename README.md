@@ -31,9 +31,9 @@
 ![Postman](https://img.shields.io/badge/postman-%23F24E1E.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Maven](https://img.shields.io/badge/maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-<a href="https://git.io/streak-stats"><img height="200" align= "center" src="https://streak-stats.demolab.com?user=omard-dev&theme=react" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img height="200" align= "left" src="https://streak-stats.demolab.com?user=omard-dev&theme=react" alt="GitHub Streak" /></a>
 <a href="https://github.com/omard-dev/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omard-dev&show_icons=true&theme=react&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=omard-dev&show_icons=true&theme=react&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 
